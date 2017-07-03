@@ -19,7 +19,8 @@ O programa salvará todos os posts dos grupos visitados em arquivos .JSON para p
 ![Image](https://image.prntscr.com/image/AjfNGCeBSzueGaVPWi1qqQ.png)
 
 
+Video completo:
+![Video](https://www.youtube.com/watch?v=zXH5mAlm50A&t)
+
 
 It's all :)
-
-![Image](https://image.prntscr.com/image/74F-kI1pQ-mivb0642OdOQ.png)
