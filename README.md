@@ -20,7 +20,6 @@ O programa salvará todos os posts dos grupos visitados em arquivos .JSON para p
 
 
 Video completo:
-![Video](https://www.youtube.com/watch?v=zXH5mAlm50A&t)
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=zXH5mAlm50A "Little red riding hood - Click to Watch!")
+[![FACEBOOK GROUP PARSER v1.4](https://image.prntscr.com/image/B7rxzU2GS_qTLLVEU80H2g.png)](https://www.youtube.com/watch?v=zXH5mAlm50A "FACEBOOK GROUP PARSER v1.4 - Click to Watch!")
 
 It's all :)
